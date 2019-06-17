@@ -1,7 +1,7 @@
 # @stackr23/babel-preset
 > __one preset to rule them all__
 
-## includes
+## Includes
 
 __presets__  
 * `@babel/prset-env`
@@ -18,7 +18,7 @@ __plugins__
 * `babel-plugin-dynamic-import-node`
 
 
-### TODOS
+## TODOS
 
 + dev / prod
 + some other conditional plugins/presets
